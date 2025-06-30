@@ -1,6 +1,7 @@
 @font-face {
     font-family: 'urdu theme';
-    src: url('Mehr_Nastaliq_Web-v.2.0.woff') format('woff'),
+    src: url('JameelNooriNastaleeq.woff2') format('woff2'),
+        url('JameelNooriNastaleeq.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
